@@ -7,6 +7,7 @@ docker exec -i -t impala /bin/bash
 
 $HIVE_HOME/bin/hiveserver2
 
+
 Based on the works of:
 
 parrot-stream
